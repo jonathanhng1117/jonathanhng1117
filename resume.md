@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**jonathanhng1117/jonathanhng1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Jonathan Hong
+Northeastern University
+Data Science and Health Science
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python
